@@ -142,25 +142,25 @@ New task comments are also synchronized in real time.
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](screenshots/01-login.png)
+![Login Page](client/screenshots/01-login.png)
 
 ### 2. Dashboard
-![Dashboard](screenshots/02-dashboard.png)
+![Dashboard](client/screenshots/02-dashboard.png)
 
 ### 3. Project Details
-![Project Details](screenshots/03-project-details.png)
+![Project Details](client/screenshots/03-project-details.png)
 
 ### 4. Task Management
-![Task Management](screenshots/04-task-management.png)
+![Task Management](client/screenshots/04-task-management.png)
 
 ### 5. Task Comments
-![Task Comments](screenshots/05-task-comments.png)
+![Task Comments](client/screenshots/05-task-comments.png)
 
 ### 6. Notifications
-![Notifications](screenshots/06-notifications.png)
+![Notifications](client/screenshots/06-notifications.png)
 
 ### 7. Real-Time Collaboration
-![Real-Time Collaboration](screenshots/07-realtime-collaboration.png)
+![Real-Time Collaboration](client/screenshots/07-realtime-collaboration.png)
 
 
 ## Internship Project
